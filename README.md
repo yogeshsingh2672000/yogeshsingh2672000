@@ -1,9 +1,11 @@
 ### Hi there 👋
 ### I Yogesh Kumar Welcomes you here 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<div style="display:flex">
+<img src="https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</div>
+  
 - 🔭 I’m currently waiting for my joining.
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Python, Javascript, Node.js
