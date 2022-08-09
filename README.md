@@ -9,12 +9,13 @@
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <!-- <img src="" /> -->
- 
+<div style="margin-top:20px">
 - 🔭 I’m currently waiting for my joining.
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Python, Javascript, Node.js
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/yogesh-krr/)
 - ⚡ Fun fact: Always Open to learn new Tech. 
+</div>
 
 <!--
 **yogeshsingh2672000/yogeshsingh2672000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
