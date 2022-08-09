@@ -2,8 +2,8 @@
 ### I Yogesh Kumar Welcomes you here 😄
 
 <div style="display:flex;justify-content:space-around;align-items:center;">
-<img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&show_icons=true&theme=radical" />
-<img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&show_icons=true&theme=radical" />
+<img style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </div>
   
 - 🔭 I’m currently waiting for my joining.
