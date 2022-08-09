@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Python, Javascript, Node.js
-- 📫 How to reach me Linkedin(https://www.linkedin.com/in/yogesh-krr/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/yogesh-krr/)
 - ⚡ Fun fact: Always Open to learn new Tech. 
 
 <!--
