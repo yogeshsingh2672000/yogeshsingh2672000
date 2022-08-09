@@ -1,9 +1,11 @@
 ### Hi there 👋
 ### I Yogesh Kumar Welcomes you here 😄
 
+<div>
 <img align="left" style="width:47%" src="https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&show_icons=true&theme=radical" />
 <img align="left" style="width:47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-
+</div>
+ 
 <div>
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
