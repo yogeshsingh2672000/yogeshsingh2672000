@@ -1,10 +1,8 @@
 ### Hi there 👋
 ### I Yogesh Kumar Welcomes you here 😄
 
-<div style="display:flex;justify-content:space-around;align-items:center;flex-direction:row;">
-<img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&show_icons=true&theme=radical" />
-<img style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</div>
+<img align="left" style="width:47%" src="https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&show_icons=true&theme=radical" />
+<img align="left" style="width:47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   
 - 🔭 I’m currently waiting for my joining.
 - 🌱 I’m currently learning Node.js
