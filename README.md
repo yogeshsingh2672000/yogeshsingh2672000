@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I Yogesh Kumar Welcomes you here 😄
 
-<div style="display:flex;justify-content:space-around;align-items:center;">
+<div style="display:flex;justify-content:space-around;align-items:center;flex-direction:row;">
 <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&show_icons=true&theme=radical" />
 <img style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </div>
