@@ -14,13 +14,13 @@
 </div>
  
  
-<div style="margin-top:20px">
+<!-- <div style="margin-top:20px">
 <p>- 🔭 I’m currently waiting for my joining.</p>
 <p>- 🌱 I’m currently learning Node.js</p>
 <p>- 👯 I’m looking to collaborate on Python, Javascript, Node.js</p>
 <p>- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/yogesh-krr/)</p>
 <p>- ⚡ Fun fact: Always Open to learn new Tech. </p>
-</div>
+</div> -->
 
 <!--
 **yogeshsingh2672000/yogeshsingh2672000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
