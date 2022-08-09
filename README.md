@@ -10,11 +10,11 @@
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <!-- <img src="" /> -->
 <div style="margin-top:20px">
-- 🔭 I’m currently waiting for my joining.
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Python, Javascript, Node.js
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/yogesh-krr/)
-- ⚡ Fun fact: Always Open to learn new Tech. 
+<p>- 🔭 I’m currently waiting for my joining.</p>
+<p>- 🌱 I’m currently learning Node.js</p>
+<p>- 👯 I’m looking to collaborate on Python, Javascript, Node.js</p>
+<p>- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/yogesh-krr/)</p>
+<p>- ⚡ Fun fact: Always Open to learn new Tech. </p>
 </div>
 
 <!--
