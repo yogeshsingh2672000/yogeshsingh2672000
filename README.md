@@ -1,6 +1,6 @@
 # Hi there 👋 I [Yogesh](https://github.com/yogeshsingh2672000/) 🙋‍♂️
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=800&lines=I+am+building+my+Career+in+MERN%2C+Full+Stack+Developer+and+also+trhing+to+contribute+in+Open+Source)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=800&lines=I+am+building+my+Career+in+MERN%2C+Full+Stack+Developer+and+also+working+to+contribute+in+Open+Source)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Inventory Management System for Products in MERN
 - 🌱 I’m currently learning DSA, MERN
