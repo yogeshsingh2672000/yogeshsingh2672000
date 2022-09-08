@@ -33,13 +33,16 @@
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
-######❤️ Offer work : Send the offer on
+###### ❤️ Offer work : Send the offer on
+
 [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
 or [<img align="left" alt="Yogesh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yogeshsingh2672000@gmail.com)
 
-######❤️ Follow : You can follow me here on
+###### ❤️ Follow : You can follow me here on
+
 [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/kunalchhabra37/?tab=follow) and [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
 if you are on a similar path as mine.
 
-######❤️ Connect with me :
+###### ❤️ Connect with me :
+
 [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
