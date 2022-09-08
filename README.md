@@ -12,6 +12,7 @@
 ### I Yogesh Kumar Welcomes you here 😄
 
 ![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&count_private=true&include_all_commits=true&show_icons=true)
+[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshsingh2672000&layout=compact)
 
 ### Connect with me:
