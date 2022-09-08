@@ -1,6 +1,6 @@
 # Hi there 👋 I [Yogesh](https://github.com/yogeshsingh2672000/) 🙋‍♂️
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+building+my+Career+in+MERN%2C+Full+Stack+Developer+and+also+trhing+to+contribute+in+Open+Source)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=800&lines=I+am+building+my+Career+in+MERN%2C+Full+Stack+Developer+and+also+trhing+to+contribute+in+Open+Source)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Inventory Management System for Products in MERN
 - 🌱 I’m currently learning DSA, MERN
@@ -33,10 +33,13 @@
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
-❤️ Offer work : Send the offer on [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
+❤️ Offer work : Send the offer on
+[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
 or [<img align="left" alt="Yogesh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yogeshsingh2672000@gmail.com)
 
-❤️ Follow : You can follow me here on [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/kunalchhabra37/?tab=follow) and [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
+❤️ Follow : You can follow me here on
+[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/kunalchhabra37/?tab=follow) and [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
 if you are on a similar path as mine.
 
-❤️ Connect with me : [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
+❤️ Connect with me :
+[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
