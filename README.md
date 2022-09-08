@@ -1,8 +1,8 @@
-# Hi there 👋 I [Yogesh](https://github.com/yogeshsingh2672000/) 🙋‍♂️
+# Hi there 👋 I am [Yogesh](https://github.com/yogeshsingh2672000/) 🙋‍♂️
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=1000&lines=I+am+building+my+Career+in+MERN%2C+Full+Stack+Developer+and+also+working+to+contribute+in+Open+Source)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on Inventory Management System for Products in MERN
+- 🔭 I’m currently working on Inventory Management System for Products in MERN [<p align="center"><a href="https://github.com/t-ho/mern-stack"><img alt="mern-logo" width="360" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png"/></a></p>]
 - 🌱 I’m currently learning DSA, MERN
 - 👯 I’m looking to collaborate on Node.js, Express, Rest API
 - 💬 Ask me about ...
