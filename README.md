@@ -38,9 +38,13 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
 [<img align="left" alt="Yogesh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yogeshsingh2672000@gmail.com)
 
+<br/>
+
 ##### ❤️ Follow : You can follow me here on
 
 [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/kunalchhabra37/?tab=follow) [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yogesh-krr/)
+
+<br/>
 
 ##### ❤️ Connect with me :
 
