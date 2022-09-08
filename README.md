@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />](https://www.linkedin.com/in/yogesh-krr/)
+[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
 [<img align="left" alt="Yogesh | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](mailto:yogeshsingh2672000@gmail.com)
 
 <br />
@@ -34,17 +34,17 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 ##### ❤️ Offer work : Send the offer on
 
-[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />](https://www.linkedin.com/in/yogesh-krr/)
+[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
 [<img align="left" alt="Yogesh | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](mailto:yogeshsingh2672000@gmail.com)
 
 <br/>
 
 ##### ❤️ Follow : You can follow me here on
 
-[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/kunalchhabra37/?tab=follow) [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />](https://www.linkedin.com/in/yogesh-krr/)
+[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/kunalchhabra37/?tab=follow) [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
 
 <br/>
 
 ##### ❤️ Connect with me :
 
-[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />](https://www.linkedin.com/in/yogesh-krr/)
+[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
