@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Inventory Management System for Products in MERN
 - 🌱 I’m currently learning DSA, MERN
 - 👯 I’m looking to collaborate on Node.js, Express, Rest API
-- 💬 Ask me about ...
+<!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: yogeshsingh2672000@gmail.com
 - ⚡ Fun fact: I Love to play Cricket and Computer Games
 
