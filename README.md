@@ -2,9 +2,9 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF0000&width=1000&lines=I+am+building+my+Career+in+MERN%2C+Full+Stack+Developer+and+also+working+to+contribute+in+Open+Source)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working as a Software Developer in Solana Eco-System.
-- 🌱 I’m currently learning DSA, MERN
-- 👯 I’m looking to collaborate on Node.js, Express, Rest API
+- 🔭 I’m currently working as a Software Developer in Solana Eco-System
+- 🌱 I’m currently learning Rust, Anchor, DSA and open to learn new tech as it comes
+- 👯 I’m looking to collaborate on Solana, Rust, Anchor, React, Typescript, Node.js, Express, Rest API's, GraphQL API's
 - 📫 How to reach me: yogeshsingh2672000@gmail.com
 - ⚡ Fun fact: I Love to play Cricket and Computer Games
 <!-- - 💬 Ask me about ... -->
