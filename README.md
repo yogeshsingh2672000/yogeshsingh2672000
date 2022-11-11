@@ -1,6 +1,6 @@
 # Hi there 👋 I am [Yogesh](https://github.com/yogeshsingh2672000/) 🙋‍♂️
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF0000&width=1000&lines=I+am+building+my+Career+in+MERN%2C+Full+Stack+Developer+and+also+working+to+contribute+in+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F72E2E&width=435&lines=I+am+working+in+Solana+Eco-System%2C+and+looking+to+contribute+in+Web3+Community)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working as a Software Developer in Solana Eco-System
 - 🌱 I’m currently learning Rust, Anchor, DSA and open to learn new tech as it comes
