@@ -18,6 +18,7 @@
 
 [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
 [<img align="left" alt="Yogesh | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](mailto:yogeshsingh2672000@gmail.com)
+[<img align="left" alt="Yogesh | Twitter" width="22px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />](https://twitter.com/YogeshKrr)
 
 <br />
 
