@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a Software Developer in Web3 Eco-System
 - 🌱 I’m currently learning Rust, Anchor, DSA and open to learn new tech as it comes
-- 👯 I’m looking to collaborate on Solana, Rust, Anchor, React, Typescript, Node.js, Express, Rest API's, GraphQL API's
+- 👯 I’m looking to collaborate on Solidity, Rust, React.js, Typescript, Node.js, Next.js and many more in Open Source
 - 📫 How to reach me: yogeshsingh2672000@gmail.com
 - ⚡ Fun fact: I Love to play Cricket and Computer Games
 <!-- - 💬 Ask me about ... -->
