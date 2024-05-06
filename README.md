@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Empowering+Open+Source%2C+One+Contribution+at+a+Time.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-- 🔭 I’m working as a Software Developer building GLobal Medical Recruitment Platform [TERN](https://tern-group.com/)
+- 🔭 I’m a Software Developer and contributing in building Global Medical Recruitment Platform [TERN](https://tern-group.com/)
 - 🌱 I’m currently contributing to React.js, TypeScript, and Next.js, and open to learning new tech as it comes
 - 👯 I’m looking to collaborate on React.js, TypeScript, Node.js, and many more in Open Source
 - 📫 How to reach me: yogeshsingh2672000@gmail.com
