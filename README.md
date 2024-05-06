@@ -1,15 +1,13 @@
 # Hi there 👋 I am [Yogesh](https://github.com/yogeshsingh2672000/) 🙋‍♂️
+### Welcome to my GitHub 😄
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72E2E&width=950&lines=I+am+working+in+Web3+Eco-System%2C+and+looking+to+contribute+for+the+Community)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Empowering+Open+Source%2C+One+Contribution+at+a+Time.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working as a Software Developer in Web3 Eco-System
-- 🌱 I’m currently learning Rust, Anchor, DSA and open to learn new tech as it comes
-- 👯 I’m looking to collaborate on Solidity, Rust, React.js, Typescript, Node.js, Next.js and many more in Open Source
+- 🔭 I’m working as a Software Developer in Web2 Eco-System
+- 🌱 I’m currently contributing to React.js, TypeScript, and Next.js, and open to learning new tech as it comes
+- 👯 I’m looking to collaborate on React.js, TypeScript, Node.js, and many more in Open Source
 - 📫 How to reach me: yogeshsingh2672000@gmail.com
 - ⚡ Fun fact: I Love to play Cricket and Computer Games
-<!-- - 💬 Ask me about ... -->
-
-### I Yogesh Kumar Welcomes you here 😄
 
 ![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&count_private=true&include_all_commits=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshsingh2672000&layout=compact)
@@ -18,13 +16,31 @@
 
 [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
 [<img align="left" alt="Yogesh | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](mailto:yogeshsingh2672000@gmail.com)
-[<img align="left" alt="Yogesh | Twitter" width="22px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />](https://twitter.com/YogeshKrr)
 
 <br />
 
-### 🛠️ Languages and Tools:
+### 🛠️ Technologies and Tools:
 
-<p align="left"><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <a href="https://docs.python.org/3/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
+  </a>
+</p>
 
 <br />
 <br />
@@ -37,18 +53,18 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
 [<img align="left" alt="Yogesh | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />](mailto:yogeshsingh2672000@gmail.com)
- [<img align="left" alt="Yogesh | Twitter" width="22px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />](https://twitter.com/YogeshKrr)
 
 <br/>
 
 ##### ❤️ Follow : You can follow me here on
 
-[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/yogeshsingh2672000) [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
- [<img align="left" alt="Yogesh | Twitter" width="22px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />](https://twitter.com/YogeshKrr)
+[<img align="left" alt="Yogesh | GitHub" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/github-154-675675.png" />](https://github.com/yogeshsingh2672000) 
+[<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
 
 <br/>
 
 ##### ❤️ Connect with me :
 
 [<img align="left" alt="Yogesh | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png" />](https://www.linkedin.com/in/yogesh-krr/)
- [<img align="left" alt="Yogesh | Twitter" width="22px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />](https://twitter.com/YogeshKrr)
+[<img align="left" alt="Yogesh | GitHub" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/github-154-675675.png" />](https://github.com/yogeshsingh2672000) 
+
