@@ -4,10 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=700&lines=Empowering+Open+Source%2C+One+Contribution+at+a+Time.+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 - 🔭 I’m a Software Developer and contributing to building the Global Medical Recruitment Platform [TERN](https://tern-group.com/).
-- 🌱 I’m currently contributing to React.js, TypeScript, and Next.js, and I'm open to learning new tech as it comes.
-- 👯 I’m looking to collaborate on React.js, TypeScript, Node.js, and many more in Open Source.
+- 🌱 I’m currently contributing to the Next.js, React.js, TypeScript, and Python tech stacks, and I'm open to learning new tech as it comes.
+- 👯 I’m looking to collaborate in Open Source.
 - 📫 How to reach me: yogeshsingh2672000@gmail.com.
-- ⚡ Fun fact: I love to play Cricket and Computer Games.
+- ⚡ Fun fact: I love to play Cricket.
 
 ![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshsingh2672000&count_private=true&include_all_commits=true&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshsingh2672000&layout=compact)
